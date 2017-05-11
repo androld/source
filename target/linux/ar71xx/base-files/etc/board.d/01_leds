@@ -712,6 +712,7 @@ tl-wr840n-v3)
 	ucidef_set_led_switch "lan" "LAN" "tp-link:green:lan" "switch0" "0x1E"
 	ucidef_set_led_wlan "wlan" "WLAN" "tp-link:green:wlan" "phy0tpt"
 	;;
+tl-wr740n-v6|\
 tl-wr841n-v9|\
 tl-wr841n-v11|\
 tl-wr842n-v3)
